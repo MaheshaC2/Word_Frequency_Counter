@@ -1,7 +1,6 @@
 # Word Frequency Counter
 
 sentence = input("Enter a sentence: ")
-
 # Clean and split words
 words = sentence.lower().split()
 
